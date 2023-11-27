@@ -1,0 +1,1 @@
+# Manne.Resources.Test
